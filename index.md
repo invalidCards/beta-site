@@ -1,6 +1,4 @@
-Hi there, I'm invalidCards. I am a programmer from the Netherlands, who mostly deals in Javascript and NodeJS, as well as
-Microsoft Dynamics NAV and Business Central. Additionally, I can also find my way around Java, C#, HTML/CSS, PHP, SQL
-and variants, and have an affinity for topics related to security, malware and DevOps.
+Hi there, I'm invalidCards. I am a programmer from the Netherlands, who mostly deals in Javascript and NodeJS, as well as Microsoft Dynamics NAV and Business Central. Additionally, I can also find my way around Java, C#, HTML/CSS, PHP, SQL and variants, and have an affinity for topics related to security, malware and DevOps.
 
 ## 📚 Portfolio
 To check out things I've done, click [here](/portfolio).
