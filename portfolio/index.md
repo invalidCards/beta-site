@@ -1,7 +1,7 @@
 # 📚 Portfolio
 ## Main projects
 ### Discord bots
-I mostly spend my time creating bots for [Discord](https://discordapp.com), a chat application mostly geared towards
+I mostly spend my time creating chat bots for [Discord](https://discordapp.com), a chat application mostly geared towards
 gamers. Click [here](/bots) for the complete overview.
 
 ### New XKit (contributor) { [Code](https://github.com/new-xkit/XKit) | [Website](https://new-xkit-extension.tumblr.com) }
