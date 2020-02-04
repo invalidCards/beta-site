@@ -4,7 +4,7 @@ Hi there, I'm invalidCards. I am a programmer from the Netherlands, who mostly d
 To check out things I've done, click [here](/portfolio).
 
 ## 💵 Donations
-If you like the stuff I do and want to support me to keep doing it, please consider [leaving a donation](/donations)!
+If you like the stuff I do and want to support me to keep doing it, or want me to make a bot of your own, please consider [leaving a donation](/donations)!
 
 ## 🌐 Where to find me
 * [invalidCards on GitHub](https://github.com/invalidCards)
