@@ -1,3 +1,2 @@
-theme: jekyll-theme-hacker
-title: {{ site.url | invalidCards }}
+title: invalidCards
 description: Game- and software developer
