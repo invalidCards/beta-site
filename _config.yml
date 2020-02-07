@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: invalidCards
 description: Game- and software developer
+baseurl: https://invalid.cards/beta-site
