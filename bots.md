@@ -1,5 +1,6 @@
 ---
 title: 🤖 Discord bots
+permalink: /bots
 ---
 
 ## ✔️ GloopyBot 
