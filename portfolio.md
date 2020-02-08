@@ -1,4 +1,7 @@
-# 📚 Portfolio
+---
+title: 📚 Portfolio
+---
+
 ## Main projects
 ### Discord bots
 I mostly spend my time creating chat bots for [Discord](https://discordapp.com), a chat application mostly geared towards gamers. Click [here](../bots) for the complete overview.
