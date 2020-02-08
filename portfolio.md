@@ -1,5 +1,6 @@
 ---
 title: 📚 Portfolio
+permalink: /portfolio
 ---
 
 ## Main projects
