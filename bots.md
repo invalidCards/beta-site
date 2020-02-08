@@ -1,4 +1,7 @@
-# 🤖 Discord bots
+---
+title: 🤖 Discord bots
+---
+
 ## ✔️ GloopyBot 
 #### [Code](https://gitlab.com/weirdgloop/gloopybot) | [Invite](https://discordapp.com/oauth2/authorize?client_id=393024915755761674&scope=bot&permissions=330752)
 A bot for linking to the Weird Gloop family of wikis (such as the [RuneScape](https://rs.wiki) and [OldSchool RuneScape](https://osrs.wiki) wikis) as well as [Wikipedia](https://en.wikipedia.org).
