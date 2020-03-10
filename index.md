@@ -14,6 +14,6 @@ If you like the stuff I do and want to support me to keep doing it, or want me t
 * [invalidCards on GitHub](https://github.com/invalidCards)
 * [invalidCards on Twitter](https://twitter.com/invalidCards)
 * [thepsionic on Keybase](https://keybase.io/thepsionic)
-* [ThePsionic on BitBucket](https://bitbucket.org/ThePsionic)
+* [invalidCards on BitBucket](https://bitbucket.org/invalidCards)
 * [invalidCards on Gitlab](https://gitlab.com/u/invalidCards)
 * Send me an e-mail at ic﹫invalid.cards
