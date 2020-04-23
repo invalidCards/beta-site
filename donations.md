@@ -25,6 +25,9 @@ If you want to donate an amount other than an increment of $3 and you don't mind
 ## Supporters
 A huge thanks to everyone who has donated to me! Below they are listed in order from most to least donated, but remember, it's not a competition! Your contribution is greatly appreciated no matter how much it is. (Those donating through Patreon have their total over time listed here.)
 
-Name       | Total donations
------------|----------------
-Levi Crowe | $12,00
+Name           | Total donations
+---------------|----------------
+Scuzzy Beta    | $99,99
+Aorpheat       | €33,40
+FilibusterFrog | €17,99
+Levi Crowe     | $12,00
