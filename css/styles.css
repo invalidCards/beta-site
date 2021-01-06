@@ -10270,3 +10270,11 @@ h3 {
 .portfolio-links {
     margin-bottom: 7px;
 }
+
+.td-r {
+    text-align: right;
+}
+
+.td-m {
+    text-align: center;
+}
