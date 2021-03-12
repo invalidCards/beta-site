@@ -10,82 +10,123 @@
     background-size: contain;
 }
 
-.portfolio-icon.icon-tba {
+.portfolio-icon-mini {
+    width: 37px;
+    height: 37px;
+    border: 2px #484c50 solid;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+}
+
+.portfolio-icon-mini.online {
+    border-color: #43b581;
+}
+
+.portfolio-icon-mini.old {
+    border-color: #faa61a;
+}
+
+.portfolio-table td {
+    display: flex;
+    justify-content: space-between;
+}
+
+.portfolio-table td .portfolio-line {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.portfolio-table td .portfolio-line span {
+    margin-left: 0.3em;
+}
+
+.portfolio-table td .portfolio-buttons a.btn {
+    padding: 0.375rem 0.35rem;
+}
+
+.icon-tba {
     background-image: url(../assets/img/portfolio/tba.png);
 }
 
-.portfolio-icon.icon-gloopybot {
+.icon-gloopybot {
     background-image: url(../assets/img/portfolio/gloopybot.png);
 }
 
-.portfolio-icon.icon-wikialinker {
+.icon-wikialinker {
     background-image: url(../assets/img/portfolio/wikialinker.png);
 }
 
-.portfolio-icon.icon-googlr {
+.icon-googlr {
     background-image: url(../assets/img/portfolio/googlr.png);
 }
 
-.portfolio-icon.icon-birbbot {
+.icon-birbbot {
     background-image: url(../assets/img/portfolio/birbbot.png);
 }
 
-.portfolio-icon.icon-bugebot {
+.icon-bugebot {
     background-image: url(../assets/img/portfolio/bugebot.png);
 }
 
-.portfolio-icon.icon-charbotte {
+.icon-charbotte {
     background-image: url(../assets/img/portfolio/charbotte.png);
 }
 
-.portfolio-icon.icon-chungocraft {
+.icon-chungocraft {
     background-image: url(../assets/img/portfolio/chungocraft.png);
 }
 
-.portfolio-icon.icon-frob {
+.icon-frob {
     background-image: url(../assets/img/portfolio/frob.png);
 }
 
-.portfolio-icon.icon-froggobot {
+.icon-froggobot {
     background-image: url(../assets/img/portfolio/froggobot.png);
 }
 
-.portfolio-icon.icon-homewardbot {
+.icon-homewardbot {
     background-image: url(../assets/img/portfolio/homewardbot.png);
 }
 
-.portfolio-icon.icon-rosebot {
+.icon-rosebot {
     background-image: url(../assets/img/portfolio/rosebot.png);
 }
 
-.portfolio-icon.icon-shitpeoplebot {
+.icon-shitpeoplebot {
     background-image: url(../assets/img/portfolio/shitpeoplebot.png);
 }
 
-.portfolio-icon.icon-terribot {
+.icon-terribot {
     background-image: url(../assets/img/portfolio/terribot.png);
 }
 
-.portfolio-icon.icon-frogleap {
+.icon-frogleap {
     background-image: url(../assets/img/portfolio/frogleap.png);
 }
 
-.portfolio-icon.icon-newxkit {
+.icon-newxkit {
     background-image: url(../assets/img/portfolio/newxkit.png);
 }
 
-.portfolio-icon.icon-distantquest {
+.icon-distantquest {
     background-image: url(../assets/img/portfolio/distantquest.png);
 }
 
-.portfolio-icon.icon-taskbotv2 {
+.icon-taskbotv2 {
     background-image: url(../assets/img/portfolio/taskbotv2.png);
 }
 
-.portfolio-icon.icon-wob {
+.icon-wob {
     background-image: url(../assets/img/portfolio/wob.png);   
 }
 
-.portfolio-icon.icon-bgr-quartermaster {
+.icon-bgr-quartermaster {
     background-image: url(../assets/img/portfolio/bgr-quartermaster.png);
+}
+
+.icon-xkitrw {
+    background-image: url(../assets/img/portfolio/xkitrw.png);
 }
