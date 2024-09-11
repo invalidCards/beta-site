@@ -14,6 +14,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Bitter:wght@400;700&display=swap");
 
+@font-face {
+  font-family: openmoji;
+  src: url(../assets/openmoji-color.woff2);
+}
+
 :root {
   --blue: #007bff;
   --indigo: #be03af;
@@ -10702,4 +10707,9 @@ h3 {
 
 .td-m {
   text-align: center;
+}
+
+i.flag {
+  font-family: openmoji;
+  font-style: normal;
 }
